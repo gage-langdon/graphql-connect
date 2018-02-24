@@ -15,7 +15,7 @@ module.exports.createRemoteSchema = async ({ uri, headers, filters }) => {
 		fetch,
 		headers
 	});
-	const introspection = await introspectSchema(link);
+	const schema = await introspectSchema(link);
 	const executableSchema = makeRemoteExecutableSchema({
 		schema,
 		link
