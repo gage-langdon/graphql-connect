@@ -1,0 +1,38 @@
+{
+  "name": "graphql-connect",
+  "version": "1.0.0",
+  "description": "GraphQL tool for easily connecting to remote graphql services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gage-langdon/graphql-connect.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "schema",
+    "stitching",
+    "remote",
+    "micro",
+    "service",
+    "micro-service",
+    "graphql",
+    "graph",
+    "connect"
+  ],
+  "author": "Gage Langdon <gagelangdon@gmail.com> (http://gage-langdon.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gage-langdon/graphql-connect/issues"
+  },
+  "homepage": "https://github.com/gage-langdon/graphql-connect#readme",
+  "dependencies": {
+    "apollo-link-http": "^1.5.1",
+    "graphql": "^0.13.1",
+    "graphql-tools": "^2.21.0",
+    "graphql-transform-schema": "^0.2.2",
+    "node-fetch": "^2.0.0"
+  }
+}
