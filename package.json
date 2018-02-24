@@ -30,7 +30,6 @@
   "homepage": "https://github.com/gage-langdon/graphql-connect#readme",
   "dependencies": {
     "apollo-link-http": "^1.5.1",
-    "graphql": "^0.13.1",
     "graphql-tools": "^2.21.0",
     "node-fetch": "^2.0.0"
   }
