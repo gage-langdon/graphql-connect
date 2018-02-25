@@ -1,6 +1,6 @@
 {
   "name": "graphql-connect",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "GraphQL tool for easily connecting to remote graphql services",
   "main": "index.js",
   "scripts": {
