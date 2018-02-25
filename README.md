@@ -1,6 +1,8 @@
 # graphql-connect
 GraphQL tool that makes for easy remote schema connections and merging multiple schemas into one.
 
+![alt text](http://i68.tinypic.com/2dnymc.jpg)
+
 ### Get Started
  - Install `npm install graphql-connect`
  - Import `const { createRemoteSchema, mergeSchemas } = require('graphql-connect');`
