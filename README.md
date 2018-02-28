@@ -45,4 +45,4 @@ export default async userToken => {
 #### Contributions
 Contributions, issues, and feature requests would be awesome, just submit an issue or PR! :)
 
-[Leave Feedback on Foreal.io](foreal.io/H186JFNdM)
+[Leave Feedback on Foreal.io](http://foreal.io/H186JFNdM)
