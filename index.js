@@ -21,7 +21,7 @@ module.exports.createRemoteSchema = async ({ uri, headers }) => {
 };
 
 /*
-*	@description Merges multiple GraphQL schemas into one
+*	@description Merges multiple GraphQL schemas into one.
 *	@param {Array.<Object>} schemas The array of schemas that are being merged.
 */
 module.exports.mergeSchemas = async ({ schemas: raw }) => {
